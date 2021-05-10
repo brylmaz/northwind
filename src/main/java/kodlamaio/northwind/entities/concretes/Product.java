@@ -96,6 +96,7 @@ public class Product {
 	public String getQuantityPerUnit() {
 		return quantityPerUnit;
 	}
+	
 
 
 	public void setQuantityPerUnit(String quantityPerUnit) {
